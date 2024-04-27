@@ -1,6 +1,6 @@
 # Disneyplus.com/begin 
 
-[![Disneyplus.com/begin](gett-started.png)](http://dis.amdonline.site/)
+[![Disneyplus.com/begin](gett-started.png)](https://dis.activateprod.online/)
 
 [Disneyplus.com/begin](https://a-disneypluscombegin.github.io/) - is one of the most popular streaming services in the world right now. With the entire catalogue of Disney classics available, plus new favorites like Hamilton and exclusives like Muppets Now, it’s not hard to see why. But when it comes to technology, sometimes you need a little help to get going. One of the issues people are seeing now is a message prompt telling them to go to [disneyplus.com/begin](https://a-disneypluscombegin.github.io/) or DisneyPlus.com/Start. Here is what to do if you see that message on your screen.
 
